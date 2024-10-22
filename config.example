@@ -1,0 +1,4 @@
+{
+  "directories": ["/path/to/directory1", "/path/to/directory2"],
+  "backup_output_dir": "/path/to/backup/output/dir"
+}
